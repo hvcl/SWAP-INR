@@ -119,3 +119,20 @@ python inference.py --dataset ionization_down_down --num_var 4 --Shared_hidden 6
 ## Citation
 
 Citation information will be added when the official WACV 2027 paper metadata is available.
+
+
+---
+
+## Acknowledgements
+
+This work was conducted at the **High-performance Visual Computing Lab (HVCL), Korea University**.
+
+We gratefully acknowledge Prof. Chaoli Wang at the University of Notre Dame for providing the Combustion and Ionization datasets, the Electronics and Telecommunications Research Institute (ETRI) for providing the ROCOM, CUPID, and Synthetic datasets, and the TFC & BME Lab (led by Prof. Haecheon Choi) at Seoul National University for providing the SMR Simulation dataset.
+
+---
+
+<div align="center">
+  <sub>© 2026 Hyunsoo Son, Jeonghyun Noh, Chaoli Wang, and Won-Ki Jeong </sub>
+  <br>
+  <sub>⭐ Star this repo to stay updated on the code release!</sub>
+</div>
