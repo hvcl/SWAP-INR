@@ -138,7 +138,7 @@ Citation information will be added when the official WACV 2027 paper metadata is
 This work was conducted at the **High-performance Visual Computing Lab (HVCL), Korea University**.
 
 We gratefully acknowledge Prof. Chaoli Wang at the University of Notre Dame for providing the Combustion and Ionization datasets, the Korea Atomic Energy Research Institute (KAERI) for providing the ROCOM, CUPID, and Synthetic datasets, and the TFC & BME Lab (led by Prof. Haecheon Choi) at Seoul National University for providing the SMR Simulation dataset.
-We also extend our sincere gratitude to the Electronics and Telecommunications Research Institute (ETRI) for their valuable collaboration and contributions to this research.
+We also extend our sincere gratitude to the Electronics and Telecommunications Research Institute (ETRI) for their valuable collaboration to this research.
 
 ---
 
