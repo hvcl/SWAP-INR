@@ -48,7 +48,17 @@ Due to supplementary-material size limitations, the provided model weights and e
 
 ## Usage
 
-Run the following commands from the `code/` directory:
+### Environment Setup
+
+Before running training or inference, create and activate a Conda environment and install the required dependencies:
+
+```bash
+conda create -n SWAP-INR python=3.9 -y
+conda activate SWAP-INR
+pip install -r requirements.txt
+```
+
+Run the following training and inference commands from the `code/` directory.
 
 ```bash
 cd code/
